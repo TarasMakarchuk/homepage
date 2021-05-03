@@ -1,2 +1,2 @@
-# my-résumé
-My own résumé, basically just a résumé.
+# my-homepage
+***My own homepage.***
