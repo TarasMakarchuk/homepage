@@ -1,2 +1,2 @@
-# my-homepage
-***My own homepage.***
+# My-homepage
+***My homepage.***
