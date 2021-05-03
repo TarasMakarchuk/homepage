@@ -1,2 +1,2 @@
-# my-resume
-My own resume, basically just a resume.
+# my-résumé
+My own résumé, basically just a résumé.
