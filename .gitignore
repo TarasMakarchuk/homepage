@@ -2,3 +2,6 @@
 /idea
 /node_modules
 node_modules
+sw.js.map
+sw.js
+workbox-config.js
