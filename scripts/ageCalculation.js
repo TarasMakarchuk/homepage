@@ -1,5 +1,5 @@
 const myBirthday = {
-    date: '19870319',
+    date: '19820319',
     format: 'years'
 }
 document.getElementById("my_age")
