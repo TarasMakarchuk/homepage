@@ -8,5 +8,5 @@
 
 -**Amazon Web Services production**: http://tarasmakarchuk1.com-production.s3-website.eu-central-1.amazonaws.com
 
--**Vercel.com (Zeit.co) main**: https://vercel.com/tarasmakarchuk/my-homepage
+-**Vercel.com (Zeit.co) main**: https://my-homepage-nine.vercel.app/
 ** **
