@@ -1,12 +1,13 @@
-###My-homepage
-** **
-***Links to:***
-** **
--**GitHub pages**: https://tarasmakarchuk.github.io/homepage
+### My homepage
+___
+***Links to my homepage hosting:***
 
--**Amazon Web Services staging**: http://tarasmakarchuk1.com-staging.s3-website.eu-central-1.amazonaws.com
+1. ***Vercel.com*** (Zeit.co): https://my-homepage-nine.vercel.app/
 
--**Amazon Web Services production**: http://tarasmakarchuk1.com-production.s3-website.eu-central-1.amazonaws.com
+2. ***Amazon Web Services*** staging: http://tarasmakarchuk1.com-staging.s3-website.eu-central-1.amazonaws.com
 
--**Vercel.com (Zeit.co) main**: https://my-homepage-nine.vercel.app/
-** **
+3. ***Amazon Web Services*** production: http://tarasmakarchuk1.com-production.s3-website.eu-central-1.amazonaws.com
+
+4. ***GitHub*** page: https://tarasmakarchuk.github.io/homepage
+
+___
