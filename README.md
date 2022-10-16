@@ -10,4 +10,4 @@ ___
 
 4. ***GitHub*** page: https://tarasmakarchuk.github.io/homepage
 
-** **
+___
