@@ -1,8 +1,17 @@
-### My homepage
-___
-***Links to my homepage hosting:***
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
-1. ***Vercel.com*** (Zeit.co): https://my-homepage-nine.vercel.app/
+### My own homepage `🏷️`
+
+___
+***Links to hostings:*** `☕`
+
+1. ***Vercel.com*** (Zeit.co): https://my-homepage-nine.vercel.app
 
 2. ***Amazon Web Services*** staging: http://tarasmakarchuk1.com-staging.s3-website.eu-central-1.amazonaws.com
 
