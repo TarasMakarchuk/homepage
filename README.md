@@ -11,12 +11,12 @@
 ___
 ***Links to hostings:*** `☕`
 
-1. ***Vercel.com*** (Zeit.co): https://my-homepage-nine.vercel.app
+1️⃣ 🔸 ***Vercel.com*** (Zeit.co): https://my-homepage-nine.vercel.app 
 
-2. ***Amazon Web Services*** staging: http://tarasmakarchuk1.com-staging.s3-website.eu-central-1.amazonaws.com
+2️⃣ 🔸 ***Amazon Web Services*** staging: http://tarasmakarchuk1.com-staging.s3-website.eu-central-1.amazonaws.com
 
-3. ***Amazon Web Services*** production: http://tarasmakarchuk1.com-production.s3-website.eu-central-1.amazonaws.com
+3️⃣ 🔸 ***Amazon Web Services*** production: http://tarasmakarchuk1.com-production.s3-website.eu-central-1.amazonaws.com
 
-4. ***GitHub*** page: https://tarasmakarchuk.github.io/homepage
+4️⃣ 🔸 ***GitHub*** page: https://tarasmakarchuk.github.io/homepage
 
 ___
