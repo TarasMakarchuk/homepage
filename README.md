@@ -8,7 +8,6 @@
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
 ### My own homepage `🏷️`
-
 ___
 ***Links to hostings:*** `☕`
 
