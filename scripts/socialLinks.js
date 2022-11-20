@@ -1,9 +1,9 @@
 const socialBar = document.getElementsByClassName('social-links');
 const socialInfo = [
-    {name: 'LinkedIn', icon:'linkedin', link: 'https://www.linkedin.com/in/taras-makarchuk-82a187172/'},
-    {name: 'Facebook', icon:'facebook', link: 'https://www.facebook.com/taras.makarchuk.30/'},
-    {name: 'Bitbucket', icon:'bitbucket', link: 'https://bitbucket.org/TarasMakarchuk/'},
-    {name: 'Github', icon:'github', link: 'https://github.com/TarasMakarchuk'},
+    { name: 'LinkedIn', icon:'linkedin', link: 'https://www.linkedin.com/in/taras-makarchuk-82a187172/' },
+    // { name: 'Facebook', icon:'facebook', link: 'https://www.facebook.com/taras.makarchuk.30/' },
+    { name: 'Bitbucket', icon:'bitbucket', link: 'https://bitbucket.org/TarasMakarchuk/' },
+    { name: 'Github', icon:'github', link: 'https://github.com/TarasMakarchuk' },
 ];
 
 Array.from(socialBar).forEach(element => {

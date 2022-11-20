@@ -2,7 +2,7 @@ html {
   scroll-behavior: smooth;
 }
 
-@media (min-width: 48em) {
+@media (max-width: 48em) {
   .site-title {
     float: left;
   }
@@ -14,6 +14,15 @@ html {
   .avatar {
     margin-bottom: -80px;
     margin-left: 0;
+  }
+
+  .education-item div a {
+    width: 100px !important;
+    font-size: 12px;
+    padding: 10px !important;
+  }
+  .header-full-name-position {
+    margin-top: 80px;
   }
 }
 
@@ -64,6 +73,11 @@ html {
   }
 }
 
+a {
+  border-radius: 5px !important;
+  text-align: center;
+}
+
 .avatar {
   max-width: 180px;
   max-height: 180px;
@@ -100,6 +114,10 @@ html {
   border-radius: 10px 10px 0 0;
 }
 
+.education-item div a {
+  margin-top: 10px;
+}
+
 footer a:not(.nav-link) {
   color: inherit;
   border-bottom: 1px dashed;
@@ -122,6 +140,11 @@ footer a:not(.nav-link) {
 
 .nav-item + .nav-item {
   margin-left: 1rem;
+}
+
+.send-button {
+  border-radius: 5px !important;
+  width: 170px;
 }
 
 .site-title {
