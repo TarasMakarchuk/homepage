@@ -18,5 +18,4 @@ ___
 3️⃣ 🔸 ***Amazon Web Services*** production: http://tarasmakarchuk1.com-production.s3-website.eu-central-1.amazonaws.com
 
 4️⃣ 🔸 ***GitHub*** page: https://tarasmakarchuk.github.io/homepage
-
 ___
